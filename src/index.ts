@@ -1,3 +1,5 @@
+import './styles/tailwind.css';
+
 export { default as theme } from './styles/theme';
 
 // Icons
